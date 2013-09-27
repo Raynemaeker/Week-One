@@ -1,0 +1,32 @@
+@import url(http://fonts.googleapis.com/css?family=Kavoon);
+
+body {
+	background-color: yellow;
+}
+
+
+ #logoimg
+  {
+  	float:left;
+  	width: 50px;
+  	border: 1px dashed red;
+  }
+
+   #logotxt
+  {
+  	float:left;
+  	width: 400px;
+  	border: 1px dashed red;
+  	padding-top: 10px;
+  	padding-bottom: 10px;
+
+  }
+
+  .clear {
+  	float: none;
+  	clear: none;
+  }
+
+  a:hover {
+  	background-color: red;
+  }

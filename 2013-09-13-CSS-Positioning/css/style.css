@@ -1,0 +1,22 @@
+body > div > section:first-child
+{
+	background-color: red;
+	position:fixed
+	top; 20px;
+	right: 15px;
+}
+
+body > div > section:nth-child(2)
+{
+	background-color: green;
+	position: absloute;
+	top; 50px;
+	left: 300px;
+}
+body > div > section:nth-child(2)
+{
+	background-color: green;
+	position: absloute;
+	top; 50px;
+	right: 15px;
+}

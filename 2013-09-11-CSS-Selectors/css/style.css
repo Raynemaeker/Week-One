@@ -1,0 +1,23 @@
+/*this is a single line comment */
+/*this 
+	is 
+	a 
+	multi-line 
+	comment 
+*/
+
+#div1 {
+	color: red;
+}
+
+#divs {
+	background-color: yellow;
+
+
+/*selecting by tag*/
+
+
+ul > li:nth-child(3)  > span:nth-child(2n)
+	{
+		font-size:25;
+	}
